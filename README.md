@@ -7,11 +7,7 @@
   <img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
 
 
-<p align="center">
-	
-	<a href="https://https://www.linkedin.com/in/nelson-pereira-b71569240//"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
-</p>
 	
 <p align="center"></p>
 </p>
